@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://johnhsolomon.github.io/sitemap.xml
