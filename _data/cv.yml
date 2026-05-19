@@ -1,0 +1,162 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: John H. Solomon, MD
+    - name: Current Position
+      value: Nuclear Medicine Resident, KPC Hemet Global Medical Center
+    - name: Email
+      value: johnsolomon@mail.com
+    - name: Languages
+      value: English
+    - name: Medical License
+      value: California Temporary/Limited (PTL 19207, exp. 11/2027)
+    - name: USMLE ID
+      value: 41494386
+
+- title: Postgraduate Training
+  type: time_table
+  contents:
+    - title: Nuclear Medicine Resident (PGY-2+)
+      institution: KPC Hemet Global Medical Center, Hemet, CA
+      year: 2025 - Present
+      description:
+        - Diagnostic and therapeutic nuclear medicine training
+        - Program Director — Mindy Cheng, MD
+        - Supervisor — Sumanta Chaudhuri, MD
+    - title: Transitional Year Resident (PGY-1)
+      institution: KPC Hemet Global Medical Center, Hemet, CA
+      year: 2024 - 2025
+      description:
+        - 12-month ACGME-accredited transitional year residency
+        - Broad clinical rotations across multiple specialties
+        - Program Director — Mindy Cheng, MD
+
+- title: Medical Education
+  type: time_table
+  contents:
+    - title: Doctor of Medicine (MD)
+      institution: American University of Antigua College of Medicine, Antigua and Barbuda
+      year: 2019 - 2024
+      description:
+        - Graduated March 2024
+        - Lead Teaching Assistant, Basic Sciences (2019–2020)
+        - Dean's Honor Roll — Spring 2019 & Fall 2019
+
+- title: Undergraduate Education
+  type: time_table
+  contents:
+    - title: Bachelor of Arts — Religious Studies
+      institution: University of California, Irvine, CA
+      year: 2014 - 2018
+      description:
+        - Pre-medical coursework completed
+        - Research Assistant, UCI School of Medicine — Neural Circuit Imaging (2015–2016)
+        - Emergency Department Volunteer, San Dimas Community Hospital (2015–2016)
+
+- title: Research & Publications
+  type: time_table
+  contents:
+    - title: Peer-Reviewed Articles
+      year: 2024
+      description:
+        - title: Cureus Journal of Medical Science
+          contents:
+            - "Solomon J, Naderi N, Ng Q, Jacobson E. Recognizing Recurrence: History Over Symptoms in Metastatic Melanoma. Sep 2024."
+            - "Solomon J, Ravulapalli J, Stolze K, White F. Kyphoplasty Complications: A Rare Case of Cement Embolism. Sep 2024."
+    - title: Online Case Reports (AOCR)
+      year: 2024
+      description:
+        - title: American Osteopathic College of Radiology
+          contents:
+            - "Solomon J, Porter H, White F. Tuberous Sclerosis Complex. Sep 10, 2024."
+            - "Solomon J, Schaefer C, Onyi S. Focal Nodular Hyperplasia. Jul 19, 2024."
+    - title: Poster Presentation
+      year: 2024
+      description:
+        - title: ACP Southern California Chapters I, II & III Poster Competition
+          contents:
+            - "Samreen I, Solomon J. Unexpected Hemorrhage Post-Paracentesis: Unveiling Uremic Platelet Dysfunction in an ESRD Patient. Orange, CA. Oct 5, 2024."
+
+- title: Clinical & Research Experience
+  type: time_table
+  contents:
+    - title: Lead Teaching Assistant
+      institution: American University of Antigua College of Medicine, St. John's, Antigua
+      year: 2019 - 2020
+      description:
+        - Developed lecture materials with multimedia and real-world clinical cases
+        - Supervised laboratory sessions and held supplemental study Q&A forums
+        - Mentored underrepresented students facing personal and academic hardships
+        - Served as liaison between students and faculty
+    - title: Research Assistant — Neural Circuit Imaging
+      institution: UCI School of Medicine, Irvine, CA
+      year: 2015 - 2016
+      description:
+        - Managed imaging of immunohistochemically stained brain sections
+        - Quantified signal intensity and region-specific neural activity
+        - Presented findings at internal team meetings
+    - title: Image Processor
+      institution: SPSP Publications, Santa Monica, CA
+      year: 2008 - 2018
+      description:
+        - Refined digital images for editorial and production publications
+        - Applied advanced segmentation and feature detection tools
+        - Ensured image clarity, resolution calibration, and quality standards
+    - title: Caregiver
+      institution: Baldwin Park Medical Center — Kaiser Permanente, Baldwin Park, CA
+      year: 2020 - 2022
+      description:
+        - Served as legal caregiver for parent undergoing major surgery
+        - Coordinated care, appointments, and rehabilitation planning
+        - Advocated for informed medical decision-making amid language barriers
+    - title: Emergency Department Volunteer
+      institution: San Dimas Community Hospital, San Dimas, CA
+      year: 2015 - 2016
+      description:
+        - Transported patients, restocked supplies, and assisted with intake
+        - Mentored by attending physician in chest X-ray interpretation
+        - Experience sparked lifelong interest in radiology
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Radiopaedia 2024 Conference Participation — 62 hours of radiology educational content
+        - ACP Southern California Chapters Poster Competition Presenter
+    - year: 2020
+      items:
+        - Medical Scholars Program Leadership Award — Excellence in tutoring, mentoring, and fostering critical thinking
+    - year: 2019
+      items:
+        - Dean's Honor Roll, Fall 2019 — American University of Antigua
+        - Dean's Honor Roll, Spring 2019 — American University of Antigua
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - American College of Physicians (ACP)
+    - American College of Radiology (ACR)
+    - American Osteopathic College of Radiology (AOCR)
+    - American Roentgen Ray Society (ARRS)
+    - Radiological Society of North America (RSNA)
+
+- title: Skills & Interests
+  type: nested_list
+  contents:
+    - title: Clinical Interests
+      items:
+        - Nuclear Medicine & Molecular Imaging
+        - Diagnostic Radiology
+        - Interventional Radiology
+        - Oncologic Imaging
+    - title: Technical Skills
+      items:
+        - Medical Image Processing & Analysis
+        - Digital imaging segmentation and feature detection
+        - Research methodology and data presentation
+    - title: Hobbies
+      items:
+        - German sourdough rye bread baking (Sauerteig-Roggenbrot)
+        - Table tennis
