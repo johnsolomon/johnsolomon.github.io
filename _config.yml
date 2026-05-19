@@ -15,8 +15,8 @@ keywords: John Solomon, nuclear medicine, radiology, resident physician, MD, med
 lang: en
 icon: ⚕
 
-url: https://johnhsolomon.github.io
-baseurl: https://johnhsolomon.github.io
+url: https://johnhsolomon.github.io # UPDATE: replace with your actual GitHub Pages URL
+baseurl:
 last_updated: true
 back_to_top: true
 
